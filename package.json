@@ -1,0 +1,22 @@
+{
+  "name": "cloudcma",
+  "version": "1.0.0",
+  "description": "cloud cma",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kennyl24/cloudcma.git"
+  },
+  "author": "Kenny Laprelle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kennyl24/cloudcma/issues"
+  },
+  "homepage": "https://github.com/Kennyl24/cloudcma#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
